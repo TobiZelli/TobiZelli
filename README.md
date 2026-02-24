@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey, I'm Tobi, an electronics technician for devices and systems based in Germany.
+I'm Tobi, an electronics technician for devices and systems based in Germany.
 
 I love programming as a hobby.
 
